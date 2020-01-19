@@ -12,7 +12,7 @@ cd ../gestalt_front/
 git pull
 echo "Frontend repository successfully pulled."
 
-cd ../cicd
+cd ../gestalt_cicd
 
 echo "Stoping docker compose instance..."
 docker-compose down
